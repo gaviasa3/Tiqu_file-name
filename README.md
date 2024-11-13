@@ -6,7 +6,6 @@
 
 ## 使用
 
-### 基本用法
 
 ```cmd
 pyhton tiqu_name.py
